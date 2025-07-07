@@ -8,3 +8,12 @@ My first ever Arduino project. A timer designed for solving a rubiks cube using 
 * a reset button
 * a buzzer for start
 * buzzer warning for 30, 60, 90, seconds
+
+# Components
+* 1x Arduino Nano
+* 1x 4-digit seven segment display (SH5461AS)
+* 1x 74HC595 shift register
+* 7x 330 Ω resistor
+* 3x 10 kΩ resistor
+* 3x switch button
+* 1x buzzer
