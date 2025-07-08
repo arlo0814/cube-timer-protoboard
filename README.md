@@ -15,7 +15,7 @@ My first ever Arduino project. A timer designed for solving a rubiks cube using 
 * 1x 74HC595 shift register
 * 7x 330 Ω resistor
 * 3x 10 kΩ resistor
-* 3x switch button
+* 3x switch button (2x 10mm, 1x 5mm)
 * 1x buzzer
 
 # For the protoboard assembly
