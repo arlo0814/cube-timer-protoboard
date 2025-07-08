@@ -17,3 +17,10 @@ My first ever Arduino project. A timer designed for solving a rubiks cube using 
 * 3x 10 kΩ resistor
 * 3x switch button
 * 1x buzzer
+
+# For the protoboard assembly
+* protoboard (3" x 5")
+* female hedear pins for Arduino Nano (or an IC socket designed for Nano)
+* 16-pin IC socket
+* jumper wires
+* copper tape (for ground connections)
