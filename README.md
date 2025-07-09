@@ -25,8 +25,17 @@ My first ever Arduino project. A timer designed for solving a rubiks cube using 
 * jumper wires
 * copper tape (for ground connections)
 
+# Operation
+0. The timer starts at '0.00' and is not running. The red light is on
+1. Press L and R buttons to start the timer. The yellow light will now turn on to confirm that the buttons are pressed.
+2. Once the green light is on, you may now release it and start the timer.
+3. To stop, press either L or R button, and the 7-segment display will record your time.
+4. Reset the timer by pressing the middle button.
+5. To start again, go to (1).
+
 # Concerns
 * Check if the time is calibrated, i.e. run a stopwatch along with the timer
+* 
 
 # Further improvements
 * Replace L and R buttons with a capacitive touch sensor
