@@ -24,3 +24,9 @@ My first ever Arduino project. A timer designed for solving a rubiks cube using 
 * 16-pin IC socket
 * jumper wires
 * copper tape (for ground connections)
+
+# Concerns
+* Check if the time is calibrated, i.e. run a stopwatch along with the timer
+
+# Further improvements
+* Replace L and R buttons with a capacitive touch sensor
