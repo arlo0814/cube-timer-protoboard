@@ -35,7 +35,7 @@ My first ever Arduino project. A timer designed for solving a rubiks cube using 
 
 # Concerns
 * Check if the time is calibrated, i.e. run a stopwatch along with the timer
-* 
+* Upon pressing R and L buttons, when you release one button while holding the other, the timer will automatically start and stop at '0.01'.
 
 # Further improvements
 * Replace L and R buttons with a capacitive touch sensor
